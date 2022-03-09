@@ -1,1 +1,1 @@
-# YapayZeka
+# YapayZeka Lab Ödevleri
